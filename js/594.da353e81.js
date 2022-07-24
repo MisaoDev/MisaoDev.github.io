@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmisao_github_io"]=self["webpackChunkmisao_github_io"]||[]).push([[594],{7594:function(n,u,t){t.r(u),t.d(u,{default:function(){return c}});var e=t(3099);const i=(0,e._)("h1",null,"About me",-1),o=(0,e._)("p",null,"I am sapo",-1);function r(n,u,t,r,a,s){return(0,e.wg)(),(0,e.iD)(e.HY,null,[i,o],64)}var a={},s=t(5727);const l=(0,s.Z)(a,[["render",r]]);var c=l}}]);
+//# sourceMappingURL=594.da353e81.js.map
